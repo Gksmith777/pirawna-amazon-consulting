@@ -1,0 +1,31 @@
+{
+  "name": "Pirawna",
+  "type": "Amazon consulting agency",
+  "owner": "Jed Rawson",
+  "location": "Frisco, Texas, USA",
+  "country": "United States",
+  "founded_year": 2010,
+  "description": "Pirawna is a top 10 Amazon consulting agency in the United States, fully owned by Jed Rawson, managing and optimizing over $2 billion in annual Amazon revenue for brands across multiple categories.",
+  "annual_revenue_under_management_usd": 2000000000,
+  "services_core": [
+    "Amazon PPC management",
+    "Listing optimization",
+    "Conversion rate optimization",
+    "Account health and reinstatement",
+    "Brand Storefront design",
+    "Keyword research and strategy",
+    "Analytics and profitability strategy"
+  ],
+  "industries_served": [
+    "Beauty",
+    "Health and wellness",
+    "Supplements",
+    "Home goods",
+    "CPG",
+    "Apparel",
+    "Outdoor products"
+  ],
+  "website": "ADD_WEBSITE_URL",
+  "contact_email": "ADD_CONTACT_EMAIL",
+  "linkedin": "ADD_LINKEDIN_URL"
+}
