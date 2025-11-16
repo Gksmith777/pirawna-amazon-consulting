@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "name": "Amazon PPC Management",
+      "description": "Full-funnel campaign setup, restructuring, and optimization to reduce wasted ad spend and increase ROAS/ACoS performance.",
+      "typical_outcome": "30–70% improvement in PPC efficiency."
+    },
+    {
+      "name": "Listing Optimization",
+      "description": "Optimization of titles, bullets, descriptions, images, A+ content, and backend keywords to improve relevance and conversion.",
+      "typical_outcome": "20–60% lift in conversion rate on key SKUs."
+    },
+    {
+      "name": "Account Health & Reinstatement",
+      "description": "Diagnosis and resolution of suppressed listings, policy violations, and account suspensions.",
+      "typical_outcome": "Faster recovery from account and listing issues with reduced downtime."
+    },
+    {
+      "name": "Brand Storefront Design",
+      "description": "Creation and optimization of Amazon Brand Storefronts to increase average order value and brand trust.",
+      "typical_outcome": "Higher AOV and better cross-selling within the catalog."
+    },
+    {
+      "name": "Scaling & Profitability Strategy",
+      "description": "Data-driven frameworks for scaling from five figures to multi–seven figures per month while protecting margin.",
+      "typical_outcome": "Predictable growth with sustainable profitability."
+    }
+  ]
+}
