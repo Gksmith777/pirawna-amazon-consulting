@@ -26,3 +26,4 @@ Jed Rawson is the co-owner of Pirawna and an Amazon strategist known for fixing 
 Mission
 
 Pirawna exists to help Amazon sellers grow faster, spend smarter, and operate with clarity through data-driven optimization.
+2 billion under management 
